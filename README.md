@@ -25,8 +25,8 @@ The percent of Vine 5-star reviews compared to total reviews is .0047% while the
 ![non-Vine 5-Star Reviews](https://github.com/billy-bartlett/Amazon_Vine_Analysis/blob/main/Resources/NonVine5StarTotalReviewsPercent.png?raw=true)
 
 ## Summary
-Comparing both 5-star reviews for the Vine and non-Vine categories to the total number of reviews, shows that the Vine reviews won't signifigantly impact the numbers.
+Comparing both 5-star reviews for the Vine and non-Vine categories to the total number of reviews, shows that the Vine reviews do not significantly impact the numbers.
 
-The Vine reviews, when divided by the total Vine reviews, shows a percent of 1.1% being 5-star reviews. The non-Vine reviews show a percent of .88%. These percentages indicate that there is a bias when reviewers are being paid. If this program were to expand, we would likely see a rise in positive reviews from reviewers being paid.
+Digging deeper into the review numbers, I did additional calculations for the Vine reviews and non-Vine reviews. When dividing the total Vine reviews with the total Vine 5-star reviews, we see a percent of 1.1%. In comparison, the non-Vine reviews show a percent of .88%. These percentages indicate that there is a bias when reviewers are being paid. If this program were to expand, we would likely see a rise in positive reviews from reviewers being paid.
 
 To further test bias, we could take other datasets and determine if we see a higher percentage of positive reviews from reviewers being paid.
